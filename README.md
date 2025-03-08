@@ -1,6 +1,6 @@
 # Rubik's Cube Visualizer
 
-A simple Rubik's Cube visualizer built using Processing for a computer graphics project. This project is based on "The Coding Train"'s Rubik's Cube challenge, with some modifications to fit my approach.
+A simple Rubik's Cube visualizer built using Processing for a computer graphics project. This project is based on The Coding Train's Rubik's Cube challenge, with some modifications to fit my approach.
 
 ## Features
 
@@ -14,7 +14,6 @@ A simple Rubik's Cube visualizer built using Processing for a computer graphics 
 
 - Only one face can be rotated.
 - Custom scrambles cannot be solved automatically.
-- No keyboard or mouse interaction support (if applicable).
 
 ## Installation & Usage
 
